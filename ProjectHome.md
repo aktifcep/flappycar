@@ -1,0 +1,1 @@
+A player is controlling a car, he needs to escape from the police.. the game is endless, the longer you escape from the police, the more score you get.
